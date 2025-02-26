@@ -1,3 +1,5 @@
+# EPIC
+This is a fork to fix the gold standard dataset issue. Because the download link of the datasets are always changing, the datasets are now saved in the repo so no need to download.
 # WormMap
 The predicted complexes Cytoscape file and elution profile files can be found at https://github.com/BaderLab/EPIC/tree/master/WormMap
 (Make sure to update your Cytoscape software version to 3.6.0; elution profile files can be opened in JavaTreeView software.)
